@@ -1,7 +1,8 @@
 # @Prasds IA Generativa
-Este projeto é uma aplicação web desenvolvida utilizando a biblioteca Streamlit em Python, que permite a geração de texto através de uma IA generativa, especificamente a DeepSeek-R1. A aplicação é dividida em duas abas principais: uma para a geração de texto e outra para a configuração da API necessária para a comunicação com o serviço de IA.
+Este projeto é uma aplicação web desenvolvida utilizando a biblioteca Streamlit em Python, que permite a geração de texto através de uma IA generativa, especificamente a DeepSeek-R1. A aplicação é dividida em duas abas principais: uma para a geração de texto e outra para a configuração da API necessária para a comunicação com o serviço de IA. O Streamlit simplifica o desenvolvimento de interfaces web, permitindo que o foco seja direcionado para a lógica de negócio e a integração com a API da IA. A aplicação é altamente customizável, permitindo que os usuários ajustem as configurações da API conforme necessário.
 
-
+## Estrutura Organizada
+```bash
 LLM_GENERATIVA_DEEPSEEK/
 │
 ├── src/                     # Código-fonte principal
@@ -22,7 +23,7 @@ LLM_GENERATIVA_DEEPSEEK/
 ├── .gitignore               # Ignorar arquivos desnecessários no Git
 ├── venv/                    # Ambiente virtual Python (não recomendado versionar)
 └── README.md                # Explicação geral do projeto
-
+```
 
 ## Funcionalidades
 
@@ -38,6 +39,12 @@ LLM_GENERATIVA_DEEPSEEK/
 
 + Salve as configurações para que a aplicação funcione corretamente.
 
+## Geração de Texo
+![image](https://github.com/paulo-santos-ds/LLM_Generativa_DeepSeek/blob/main/imagens/interface.png)
+
+## Aba de Configuração
+![image](https://github.com/paulo-santos-ds/LLM_Generativa_DeepSeek/blob/main/imagens/configuracao_api.png)
+
 ## Como Usar
 
 ## Pré-requisitos
@@ -48,15 +55,15 @@ LLM_GENERATIVA_DEEPSEEK/
 + As bibliotecas listadas no arquivo requirements.txt.
 
 ## Conclusão
-O uso do Streamlit simplifica o desenvolvimento da interface, permitindo foco na lógica de negócio e integração com a API de IA. A aplicação é customizável, com possibilidades de ajustes nas configurações da API, e pode ser ampliada com novos parâmetros, integração com outras APIs e implantação em nuvem. É uma base sólida para explorar o potencial prático da IA generativa.
+A interface oferece uma experiência intuitiva e fluida, facilitando a inserção de prompts e a visualização dos textos gerados de forma clara e eficiente. A aba de configurações adiciona flexibilidade ao aplicativo, permitindo ajustes rápidos e personalizações sem a necessidade de modificar o código-fonte.
+A API de IA generativa, servindo como um ponto de partida robusto para futuras expansões. Possibilidades incluem a adição de mais parâmetros para aprimorar a geração de textos ou a integração com outras APIs, ampliando suas funcionalidades. Trata-se de uma ferramenta poderosa e versátil, ideal para explorar o potencial da IA em aplicações reais e impulsionar a inovação em diversos contextos.
 
 ## 🚀 Como Usar
 
 1. Clone o repositório
 ```bash
- https://github.com/paulo-santos-ds
+ https://github.com/paulo-santos-ds/LLM_Generativa_DeepSeek
 ```
-
 
 2. Instale as dependências
 ```bash
