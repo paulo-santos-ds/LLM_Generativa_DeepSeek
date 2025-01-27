@@ -45,7 +45,6 @@ LLM_GENERATIVA_DEEPSEEK
 ## Aba de Configuração
 ![image](https://github.com/paulo-santos-ds/LLM_Generativa_DeepSeek/blob/main/imagens/configuracao_api.png)
 
-## Como Usar
 
 ## Pré-requisitos
 ## Antes de executar o projeto, certifique-se de ter instalado:
