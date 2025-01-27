@@ -3,7 +3,7 @@ Este projeto é uma aplicação web desenvolvida utilizando a biblioteca Streaml
 
 ## Estrutura Organizada
 ```bash
-LLM_GENERATIVA_DEEPSEEK/
+LLM_GENERATIVA_DEEPSEEK
 │
 ├── src/                     # Código-fonte principal
 │   ├── app_deepseek.py      # Arquivo principal da aplicação
