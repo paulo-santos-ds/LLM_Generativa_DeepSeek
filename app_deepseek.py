@@ -3,7 +3,6 @@ import requests
 
 # Interface do Streamlit
 st.title("@Prasds IA Generativa")
-#st.markdown("https://www.linkedin.com/in/prasds/")
 
 # Abas para separar a geração de texto e as configurações da API
 tab1, tab2 = st.tabs(["Gerar Texto", "Configurações da API"])
@@ -41,6 +40,8 @@ with tab1:
             api_key = st.session_state.get("api_key", "sua_chave_api_aqui")
             generated_text = generate_text(user_prompt, api_url, api_key)
             st.write(generated_text)
+
+st.markdown("Linkedin:  https://www.linkedin.com/in/prasds")
 
 # Aba 2: Configurações da API
 with tab2:

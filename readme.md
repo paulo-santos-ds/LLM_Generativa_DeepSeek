@@ -75,3 +75,14 @@ pip install -r requirements.txt
 ```bash
 streamlit run app_deepseek.py
 ```
+
+## Contato:
+Linkedin: 
+``` 
+ https://www.linkedin.com/in/prasds
+ ```
+
+blog: 
+``` 
+https://prasds.blogspot.com/ 
+```
