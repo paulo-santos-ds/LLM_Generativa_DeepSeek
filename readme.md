@@ -2,7 +2,9 @@
 Este projeto é uma aplicação web desenvolvida utilizando a biblioteca Streamlit em Python, que permite a geração de texto através de uma IA generativa, especificamente a DeepSeek-R1. A aplicação é dividida em duas abas principais: uma para a geração de texto e outra para a configuração da API necessária para a comunicação com o serviço de IA. O Streamlit simplifica o desenvolvimento de interfaces web, permitindo que o foco seja direcionado para a lógica de negócio e a integração com a API da IA. A aplicação é altamente customizável, permitindo que os usuários ajustem as configurações da API conforme necessário.
 
 ## Confira a demonstração da LLM em funcionamento:
-(![Image](https://github.com/user-attachments/assets/342fb8dd-c07e-4e56-acec-a8de04134d7c))
+## Tabem pode conferir no link: 
+https://www.linkedin.com/feed/update/urn:li:activity:7289594257869316096/
+![Image](https://github.com/user-attachments/assets/342fb8dd-c07e-4e56-acec-a8de04134d7c)
 
 
 ## Estrutura Organizada
